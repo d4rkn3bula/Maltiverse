@@ -1,0 +1,74 @@
+{
+  "address": "No.31 ,jingrong street,beijing\n100032",
+  "as_name": "AS4134 Chinanet",
+  "asn_cidr": "110.184.0.0/13",
+  "asn_country_code": "CN",
+  "asn_date": "2009-05-11 00:00:00",
+  "asn_registry": "apnic",
+  "blacklist": [
+    {
+      "count": 1,
+      "description": "Mail Spammer",
+      "first_seen": "2017-11-30 12:39:45",
+      "last_seen": "2017-11-30 12:39:45",
+      "source": "Blocklist.de"
+    },
+    {
+      "count": 1,
+      "description": "Malicious Host",
+      "first_seen": "2020-01-28 00:45:48",
+      "last_seen": "2020-01-29 07:10:12",
+      "source": "CIArmy"
+    },
+    {
+      "count": 1,
+      "description": "Malicious Host",
+      "first_seen": "2020-01-29 00:18:08",
+      "last_seen": "2020-02-19 06:34:10",
+      "source": "Alienvault Ip Reputation Database"
+    },
+    {
+      "count": 3,
+      "description": "Mail Spammer",
+      "first_seen": "2020-03-22 11:18:35",
+      "last_seen": "2020-03-22 11:49:46",
+      "source": "Barracuda"
+    },
+    {
+      "count": 7,
+      "description": "Scanning IPs",
+      "first_seen": "2020-01-26 09:01:00",
+      "last_seen": "2020-02-01 10:26:00",
+      "source": "IBM X-Force Exchange"
+    },
+    {
+      "count": 34,
+      "description": "Spam",
+      "first_seen": "2017-07-14 06:44:00",
+      "last_seen": "2020-03-21 07:52:00",
+      "source": "IBM X-Force Exchange"
+    }
+  ],
+  "cidr": [
+    "110.184.0.0/13"
+  ],
+  "classification": "malicious",
+  "country_code": "CN",
+  "creation_time": "2017-11-30 12:39:45",
+  "email": [
+    "anti-spam@ns.chinanet.cn.net",
+    "scipadmin2013@189.cn"
+  ],
+  "ip_addr": "110.189.222.98",
+  "location": {
+    "lat": 30.6667,
+    "lon": 104.0667
+  },
+  "modification_time": "2020-02-19 06:34:10",
+  "registrant_name": "CHINANET Sichuan province network\nData Communication Division\nChina Telecom",
+  "tag": [
+    "mail",
+    "spam"
+  ],
+  "type": "ip"
+}
