@@ -11,7 +11,7 @@ from maltiverse import Maltiverse
 import keyring
 import json
 
-
+# test ip function to query hard IP and save results to a json file
 def get_ip():
 
     secret = keyring.get_password("maltiverse", "username")
